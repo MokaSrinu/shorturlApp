@@ -14,7 +14,7 @@
 <h3>In this app user can register and then by entering his credentials user can get authorized and can land on home page of the website. where user can enter the long urls to be shortened .where user can also see the all urls and their short links and the count of no of times website was visited.</h3>
 
 # Website Home Page
-<img src="asos.PNG" />
+<img src="sorturlapp.PNG" />
 
 
 # Getting Started with Create React App
