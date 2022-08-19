@@ -1,0 +1,53 @@
+.body{
+    background:yellow
+}
+.mainbody{
+    width:100%;
+
+}
+.uppercontainer{
+    width:100%;
+}
+.urlbox{
+    width:40%;
+    margin:auto;
+    min-height: 300px;
+    margin-top:50px;
+    border-radius: 16px;
+    box-shadow:rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.urlbox h2{
+    color:gold;
+}
+.urlbox input{
+    width:140px;
+    height:30px;
+}
+.urlbox button{
+    width:110px;
+    height:34px;
+    margin-left:20px;
+    color:#fff;
+    background-color:blue;
+    border:none;
+    border-radius:4px;
+    cursor:pointer;
+}
+.lowercontainer{
+    width:100%;
+    margin-top:30px;
+}
+.tablebox{
+    width:80%;
+    margin:auto;
+    box-shadow:rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.tablebox table{
+    width:100%;
+    border:1px solid black;
+    border-collapse: collapse;
+}
+.tablebox table th,td,tbody,thead{
+    border:1px solid black;
+    padding:10px;
+}
