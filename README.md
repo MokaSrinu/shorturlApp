@@ -1,3 +1,22 @@
+# ShortLink Generator
+
+<h3>In this app user can simply generate the short links for any long urls</h3>
+
+<h4>Tech Stack: React | NodeJs | ExpressJs | MongoDB</h4>
+
+<h5>Features</h5>
+<li>Registration</li>
+<li>Login</li>
+<li>get Links for Urls</li>
+<li>Redirecting to website by shortlink</li>
+
+# Description
+<h3>In this app user can register and then by entering his credentials user can get authorized and can land on home page of the website. where user can enter the long urls to be shortened .where user can also see the all urls and their short links and the count of no of times website was visited.</h3>
+
+# Website Home Page
+<img src="asos.PNG" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
